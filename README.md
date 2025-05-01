@@ -1,21 +1,44 @@
-# zerodha
-Online trading using Artificial Intelligence Machine leaning with basic python on Indian Stock Market, trading using live bots indicator screener and back tester using rest API and websocket 😊 
-@
-# Zerodha Live Automate Trading using AI ML on Indian stock market #
+# 📈 Stock Trading Automation
 
-# About the project # 
-* This project is based on Online trading using Artificial Intelligence Machine leaning with python on Indian Stock Market, trading using live bots indicators screener and backtesters using rest api and websocket on zerodha kite.
+Welcome to the **Stock Trading Automation** project — a collection of modular and well-documented Jupyter Notebooks designed to help you automate trading strategies using the Zerodha Kite Connect API.
 
-* Zerodha    - online broker for Automated Python program for trading in Indian stock market.  
+This repository is built for retail traders, algorithmic trading enthusiasts, and developers who want to explore or deploy automated trading systems in Indian stock markets.
 
-  1. Getting Started with Zerodha ,Starting new project with zerodha .
-  2. BACKTESTIG_PROGRAM == What is Backtesting?
-  3. Historical Data Download Code for any stock of Stock Market.
-  4. Stock_Screener (GUPPY)== What is Stock_Screener?
-  5. INDICATORS (ATR,RSI,SMA,EMA,Bollinger band ) on Historical_data 'SBI'.
-  6. Live_Trading_BOTS == What is a Trading BOT ?
-  7. Trading Live BOT  (1) == BUY-SELL BOT on RSI strategy
-  8. Trading Live BOT  (2) == GUPPY strategy bot
-  9. Trading Live BOT  (3) == Automated bot of BUY-SELL bot on Guppy indicator 4 colours
-  10. Trading Live BOT (4) == Advance Multiple bot of buy/sell in one BOT with screener, backtestig
+---
 
+## 🚀 Features
+
+- 🔗 **Zerodha API Integration**  
+  Easily connect to Zerodha's trading platform and fetch live/historical data.
+
+- 📊 **Live Trading Bots**
+  - RSI-based Bot
+  - Guppy Multiple Moving Averages (GMMA) Bots
+  - Advanced bot handling multiple strategies simultaneously
+
+- 🧪 **Backtesting Tools**  
+  Evaluate your trading strategies on historical data before going live.
+
+- 🧠 **Stock Screening**  
+  Identify trade-worthy stocks using the GMMA screener logic.
+
+- 🔄 **Timeframe Adjustment & Heikin-Ashi Conversion**  
+  Convert candlestick patterns, change chart resolution, and analyze trends more effectively.
+
+---
+
+## 📁 Repository Structure
+
+```bash
+├── 1_Getting_Started_with_Zerodha.ipynb
+├── 2_Backtesting_Program.ipynb
+├── 3_Live_BOT_(1)_on_RSI.ipynb
+├── 4_Live_BOT_(2)_on_GUPPY_with_screener.ipynb
+├── 5_Live_BOT_(3)_Guppy_Automated.ipynb
+├── 6_Live_BOT_(4)_advance_bot_multiple_bot_working_in_single_bot.ipynb
+├── 7_Live_BOT_(5).ipynb
+├── 8_Stock_Screener_(GUPPY).ipynb
+├── 9_Technical_Indicators_of_Indian_Stock_Market.ipynb
+├── 10_Historical_Data_Download.ipynb
+├── 11_Candle_to_Heikin_Ashi_Conversion.ipynb
+├── 12_Time_Frame_Change.ipynb
