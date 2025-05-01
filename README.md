@@ -42,3 +42,25 @@ This repository is built for retail traders, algorithmic trading enthusiasts, an
 ├── 10_Historical_Data_Download.ipynb
 ├── 11_Candle_to_Heikin_Ashi_Conversion.ipynb
 ├── 12_Time_Frame_Change.ipynb
+```
+
+## 🔧 Requirements
+- Python 3.7+
+- Jupyter Notebook
+- Kite Connect API
+- Pandas, NumPy, TA-Lib, yfinance, matplotlib, etc.
+
+```bash
+pip install -r requirements.txt
+```
+
+## 🛠️ Setup & Usage
+
+- Clone the Repository
+```bash
+git clone https://github.com/KshitizPandya/Stock_Trading_Automation.git
+cd Stock_Trading_Automation
+```
+
+- Get Kite API Key
+Register at https://developers.kite.trade and generate API credentials.
