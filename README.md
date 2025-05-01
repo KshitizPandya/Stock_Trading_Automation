@@ -83,5 +83,5 @@ Feel free to connect or contribute!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/KshitizPandya)
 
-Author: Kshitiz Pandya
-GitHub: @KshitizPandya
+
+
