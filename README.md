@@ -63,4 +63,24 @@ cd Stock_Trading_Automation
 ```
 
 - Get Kite API Key
-Register at https://developers.kite.trade and generate API credentials.
+  - Register at https://developers.kite.trade and generate API credentials.
+
+- Run Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+- Start With
+  - 1_Getting_Started_with_Zerodha.ipynb to set up the environment and obtain your access token.
+
+ ## ⚠️ Disclaimer
+ This project is for educational and research purposes only. Trading involves financial risk. The author is not responsible for any losses incurred while using this code.
+
+## 📬 Contact
+Feel free to connect or contribute!
+
+[![Gmail]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+))](kshitiz19pandya@gmail.com)
+
+Author: Kshitiz Pandya
+GitHub: @KshitizPandya
