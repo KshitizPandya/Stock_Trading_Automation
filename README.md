@@ -79,7 +79,7 @@ jupyter notebook
 ## 📬 Contact
 Feel free to connect or contribute!
 
-[![Gmail]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kshitiz19pandya@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kshitiz19pandya@gmail.com)
 
 Author: Kshitiz Pandya
 GitHub: @KshitizPandya
