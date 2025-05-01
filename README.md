@@ -80,6 +80,7 @@ jupyter notebook
 Feel free to connect or contribute!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kshitiz19pandya@gmail.com)
+[![Github](https://aleen42.github.io/badges/src/stackexchange.svg)](https://github.com/KshitizPandya)
 
 Author: Kshitiz Pandya
 GitHub: @KshitizPandya
